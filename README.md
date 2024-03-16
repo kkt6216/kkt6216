@@ -1,6 +1,1 @@
-
-
-
-Hello, KyungTae(kkt6216)'s World
-![header](https://capsule-render.vercel.app/api?type=Venom&color=#f9f9f9&height=300&section=header&text=capsule%20render&fontSize=90
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Hello,%KyungTae's%World&fontSize=90)
