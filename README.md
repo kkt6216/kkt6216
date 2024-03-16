@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<https://img.shields.io/badge/just%20the%20message-8A2BE2>
+<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
